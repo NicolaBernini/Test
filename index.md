@@ -1,12 +1,3 @@
----
-layout: post
-mathjax: true
-comments: true
-title:  "Adding MathJax to a GitHub Pages Jekyll Blog"
-date:   2016-08-21 23:41:54 +0000
-categories: github jekyll
----
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/NicolaBernini/Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
