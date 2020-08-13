@@ -50,5 +50,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Test $a=b$ would be great 
 
-
+$$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
 
